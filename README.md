@@ -1,4 +1,4 @@
-# instalar-odoo-12-easy
+# Instalando Odoo 12 Modo Facil
 
 ```
 git clone https://github.com/falconsoft3d/instalar-odoo-12-easy
